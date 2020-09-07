@@ -1,5 +1,6 @@
 # Sanbercode Laravel Web Development
 Kumpulan Tugas Sanbercode Laravel Web Development
+![Sanbercode](https://sanbercode.com/assets/img/identity/logo@2x.jpg)
 
 ## Week 1
 
