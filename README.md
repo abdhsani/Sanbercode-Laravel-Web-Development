@@ -11,4 +11,6 @@ Kumpulan Tugas Sanbercode Laravel Web Development
 
 ## Week 2
 
+- Day 1 - [PHP Bagian 1 (String dan Array)](https://github.com/abdhsani/Sanbercode-Laravel-Web-Development/tree/master/Week%202%20Day%201%20-%20PHP%20Bagian%201/php-1)
+
 
