@@ -17,4 +17,8 @@ Kumpulan Tugas Sanbercode Laravel Web Development
 - Day 4 - [OOP PHP](https://github.com/abdhsani/Sanbercode-Laravel-Web-Development/tree/master/Week%202%20Day%204%20-%20OOP%20PHP/oop)
 - Day 5 - [Berlatih SQL](https://github.com/abdhsani/Sanbercode-Laravel-Web-Development/tree/master/Week%202%20Day%205%20-%20Belajar%20SQL)
 
+## Week 3
+
+- Day 1 - [Desain ERD](https://github.com/abdhsani/Sanbercode-Laravel-Web-Development/tree/master/Week%203%20Day%201%20-%20Desain%20ERD)
+
 
