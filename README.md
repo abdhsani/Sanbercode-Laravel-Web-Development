@@ -20,5 +20,6 @@ Kumpulan Tugas [Sanbercode](https://sanbercode.com/) Laravel Web Development
 ## Week 3
 
 - Day 1 - [Desain ERD](https://github.com/abdhsani/Sanbercode-Laravel-Web-Development/tree/master/Week%203%20Day%201%20-%20Desain%20ERD)
+- Day 2 - [Intro Laravel (Instalasi dan Membuat Web Statis)](https://github.com/abdhsani/Sanbercode-Laravel-Web-Development/tree/master/Week%203%20Day%202%20-%20Intro%20Laravel/blog)
 
 
