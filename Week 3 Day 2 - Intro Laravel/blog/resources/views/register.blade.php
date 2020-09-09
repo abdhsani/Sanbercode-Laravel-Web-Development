@@ -9,7 +9,7 @@
 
 <h1>Buat Account Baru!</h1>
 <h3>Sign Up Form</h3>
-<form method="POST" action="{{ route('welcome') }}">
+<form method="POST" action="/welcome">
     @csrf
     <label for="fname">First name:</label><br><br>
     <input type="text" id="fname" name="firstname" required><br><br>

@@ -13,6 +13,6 @@
 
 Route::get('/', 'HomeController@home');
 
-Route::get('/register', 'AuthController@register')->name('register');
+Route::get('/register', 'AuthController@register');
 
-Route::post('/welcome', 'AuthController@welcome')->name('welcome');
+Route::post('/welcome', 'AuthController@welcome');

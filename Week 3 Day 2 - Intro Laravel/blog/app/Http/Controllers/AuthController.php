@@ -13,9 +13,8 @@ class AuthController extends Controller
 
     public function welcome(Request $request)
     {
-        $firstname = $request->firstname;
-        $lastname = $request->lastname;
+        $data = $request->all();
 
-        return view('welcome')->with(['firstname' => $firstname, 'lastname' => $lastname]);
+        return view('welcome', $data);
     }
 }

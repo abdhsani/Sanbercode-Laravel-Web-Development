@@ -26,7 +26,7 @@
 
     <ol>
         <li>Mengunjungi Website ini</li>
-        <li>Mendaftar di <a href="{{ route('register') }}">Form Sign Up</a></li>
+        <li>Mendaftar di <a href="/register">Form Sign Up</a></li>
         <li>Selesai</li>
     </ol>
 </body>
