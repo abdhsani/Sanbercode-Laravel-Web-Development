@@ -1,5 +1,5 @@
 # Sanbercode Laravel Web Development
-<img src="https://raw.githubusercontent.com/abdhsani/Sanbercode-Laravel-Web-Development/master/Week%201%20Day%202%20-%20Berlatih%20CSS/public/img/logo.png" width="400">
+<img src="https://raw.githubusercontent.com/abdhsani/Sanbercode-Laravel-Web-Development/master/Week%201%20Day%202%20-%20Berlatih%20CSS/public/img/logo.png" width="500">
 
 Kumpulan Tugas [Sanbercode](https://sanbercode.com/) Laravel Web Development
 
