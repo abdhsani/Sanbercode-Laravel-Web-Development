@@ -1,5 +1,5 @@
 # Sanbercode Laravel Web Development
-<img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
+<img src="https://raw.githubusercontent.com/abdhsani/Sanbercode-Laravel-Web-Development/master/Week%201%20Day%202%20-%20Berlatih%20CSS/public/img/logo.png" width="500">
 
 Kumpulan Tugas [Sanbercode](https://sanbercode.com/) Laravel Web Development
 
@@ -24,4 +24,4 @@ Kumpulan Tugas [Sanbercode](https://sanbercode.com/) Laravel Web Development
 - Day 1 - [Desain ERD](/Week%203%20Day%201%20-%20Desain%20ERD)
 - Day 2 - [Intro Laravel (Instalasi dan Membuat Web Statis)](/Week%203%20Day%202%20-%20Intro%20Laravel/blog)
 - Day 3 - [Templating Laravel](/Week%203%20Day%203%20-%20Templating%20Laravel)
-
+- Day 4 - [Laravel Migration](/Week%203%20Day%204%20-%20Laravel%20Migration)
