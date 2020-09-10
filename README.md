@@ -1,5 +1,5 @@
 # Sanbercode Laravel Web Development
-<img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
+<img src="https://raw.githubusercontent.com/abdhsani/Sanbercode-Laravel-Web-Development/master/Week%201%20Day%202%20-%20Berlatih%20CSS/public/img/logo.png" width="400">
 
 Kumpulan Tugas [Sanbercode](https://sanbercode.com/) Laravel Web Development
 
