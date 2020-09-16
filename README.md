@@ -29,4 +29,4 @@ Kumpulan Tugas [Sanbercode](https://sanbercode.com/) Laravel Web Development
 
 ## Week 4
 
-- Day 1 - [Laravel CRUD (Eloquent ORM)](/Week%204%20Day%201%20-%20Laravel%20CRUD%20(Eloquent%20ORM)
+- Day 1 - [Laravel CRUD (Eloquent ORM)](/Week%204%20Day%201%20-%20Laravel%20CRUD%20(Eloquent%20ORM))
